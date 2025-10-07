@@ -1,0 +1,31 @@
+---
+title: Data Preparation
+author: <Your Name>
+format: typst
+---
+
+```{r}
+# Load necessary libraries:
+# ...
+
+```
+
+\
+
+## Part I: Data Cleaning
+
+```{r}
+
+```
+
+
+
+{{< pagebreak >}}
+
+
+
+## Part II: Exploratory Data Analysis (EDA)
+
+```{r}
+
+```
